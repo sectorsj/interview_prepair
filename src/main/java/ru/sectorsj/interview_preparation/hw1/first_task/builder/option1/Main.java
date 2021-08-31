@@ -11,7 +11,5 @@ public class Main {
 		director.setBuilder(new Employee());
 		Person person1 = director.buildPerson();
 		System.out.println(person1);
-		
-		
 	}
 }
