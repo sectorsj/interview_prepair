@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second</OriginalElement>
+  <nodes>
+    <node x="1904.1622721009114" y="847.6650943396227">ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Hexagon</node>
+    <node x="652.4479004036885" y="1025.6650943396226">ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Rectangle</node>
+    <node x="121.69160327657067" y="1281.355101851953">ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.TrapezoidImpl</node>
+    <node x="1186.0896111871218" y="330.9036353144837">ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.part1.Shape1</node>
+    <node x="2058.1622721009117" y="1282.5100980957877">ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.PentagonImpl</node>
+    <node x="693.8368401259105" y="1281.355101851953">ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.RectangleImpl</node>
+    <node x="1302.801034200797" y="1281.355101851953">ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.OvalImpl</node>
+    <node x="1858.8420473818096" y="169.07097518753608">ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.AcuteAngledable</node>
+    <node x="2270.5021597413606" y="169.07097518753608">ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Obtuseable</node>
+    <node x="2180.0100884865774" y="669.6650943396228">ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Polygon</node>
+    <node x="1394.4225143099425" y="669.6650943396228">ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Triangle</node>
+    <node x="1869.1622721009114" y="1282.5100980957877">ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.HexagonImpl</node>
+    <node x="1471.231653150854" y="1281.355101851953">ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.TriangleImpl</node>
+    <node x="517.4550945094638" y="1281.355101851953">ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.SquareImpl</node>
+    <node x="2638.1622721009117" y="847.6650943396227">ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Heptagon</node>
+    <node x="2252.1622721009117" y="1282.5100980957877">ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.DecagonImpl</node>
+    <node x="321.0733488930172" y="1281.355101851953">ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.RhombusImpl</node>
+    <node x="2441.1622721009117" y="1282.5100980957877">ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.NagonsImpl</node>
+    <node x="880.361748586186" y="1281.355101851953">ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.ParallelogramImpl</node>
+    <node x="259.8025276984278" y="1025.6650943396226">ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Trapezoid</node>
+    <node x="153.95820304218694" y="169.07097518753608">ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Rectangularable</node>
+    <node x="800.7512172802459" y="632.9905660377358">ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Quadrangle</node>
+    <node x="2103.052370033447" y="847.6650943396227">ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Pentagon</node>
+    <node x="1112.3866570464616" y="1281.355101851953">ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.CircleImpl</node>
+    <node x="2532.4734799355147" y="169.07097518753608">ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Corractable</node>
+    <node x="1211.9525056376117" y="669.6650943396228">ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Ellips</node>
+    <node x="557.618315401738" y="169.07097518753608">ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Isoscelesable</node>
+    <node x="2269.6622721009117" y="847.6650943396227">ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Decagon</node>
+    <node x="937.278427761289" y="169.07097518753608">ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Equilateralable</node>
+    <node x="1683.1622721009112" y="1282.5100980957877">ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.OctagonImpl</node>
+    <node x="1700.1622721009112" y="847.6650943396227">ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Octagon</node>
+    <node x="1481.1819350222586" y="169.07097518753608">ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Versatileable</node>
+    <node x="484.3018881446128" y="847.6650943396227">ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Rhombus</node>
+    <node x="925.7761257405214" y="844.6031839622641">ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Parallelogram</node>
+    <node x="2621.1622721009117" y="1282.5100980957877">ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.HeptagonImpl</node>
+    <node x="2458.6622721009117" y="847.6650943396227">ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Nagons</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Polygon" target="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.part1.Shape1" relationship="INTERFACE_GENERALIZATION">
+      <point x="-45.82022471910159" y="-18.0" />
+      <point x="2198.689863767476" y="136.57097518753608" />
+      <point x="1242.5896111871218" y="136.57097518753608" />
+      <point x="0.0" y="-18.0" />
+    </edge>
+    <edge source="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Pentagon" target="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Corractable" relationship="INTERFACE_GENERALIZATION">
+      <point x="-10.542281546869617" y="-18.0" />
+      <point x="2162.5100884865774" y="437.36803476357943" />
+      <point x="2609.4734799355147" y="437.36803476357943" />
+      <point x="2609.4734799355147" y="205.07097518753608" />
+      <point x="-45.00027210091184" y="18.0" />
+    </edge>
+    <edge source="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Triangle" target="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Equilateralable" relationship="INTERFACE_GENERALIZATION">
+      <point x="-45.0" y="-18.0" />
+      <point x="1412.9225143099425" y="187.07097518753608" />
+      <point x="89.5" y="0.0" />
+    </edge>
+    <edge source="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Ellips" target="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.part1.Shape1" relationship="INTERFACE_GENERALIZATION">
+      <point x="-21.862894450489875" y="-18.0" />
+      <point x="0.0" y="18.0" />
+    </edge>
+    <edge source="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.HeptagonImpl" target="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Heptagon" relationship="REALIZATION">
+      <point x="0.0" y="-18.0" />
+      <point x="0.0" y="18.0" />
+    </edge>
+    <edge source="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Trapezoid" target="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Rectangularable" relationship="INTERFACE_GENERALIZATION">
+      <point x="0.0" y="-18.0" />
+      <point x="81.84432465624087" y="18.0" />
+    </edge>
+    <edge source="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.SquareImpl" target="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Rectangle" relationship="REALIZATION">
+      <point x="69.0" y="-18.0" />
+      <point x="-60.492805894224716" y="18.0" />
+    </edge>
+    <edge source="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.TrapezoidImpl" target="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Trapezoid" relationship="REALIZATION">
+      <point x="80.5" y="-18.0" />
+      <point x="-40.610924421857135" y="18.0" />
+    </edge>
+    <edge source="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Rhombus" target="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Quadrangle" relationship="INTERFACE_GENERALIZATION">
+      <point x="69.5" y="-3.061910377358572" />
+      <point x="863.751" y="862.6031839622641" />
+      <point x="-15.00021728024592" y="18.0" />
+    </edge>
+    <edge source="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Triangle" target="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.AcuteAngledable" relationship="INTERFACE_GENERALIZATION">
+      <point x="63.5" y="15.0" />
+      <point x="1953.662" y="702.6650943396228" />
+      <point x="-4.1800473818095725" y="18.0" />
+    </edge>
+    <edge source="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Trapezoid" target="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Isoscelesable" relationship="INTERFACE_GENERALIZATION">
+      <point x="45.65567534375913" y="-18.0" />
+      <point x="376.45820304218694" y="187.07097518753608" />
+      <point x="-83.0" y="0.0" />
+    </edge>
+    <edge source="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Quadrangle" target="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.part1.Shape1" relationship="INTERFACE_GENERALIZATION">
+      <point x="78.0" y="0.0" />
+      <point x="1204.5854189336233" y="650.9905660377358" />
+      <point x="-38.00419225349856" y="19.94728960390586" />
+    </edge>
+    <edge source="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Triangle" target="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Obtuseable" relationship="INTERFACE_GENERALIZATION">
+      <point x="63.5" y="0.0" />
+      <point x="2112.6622721009117" y="687.6650943396228" />
+      <point x="2112.6622721009117" y="187.07097518753608" />
+      <point x="-77.0" y="0.0" />
+    </edge>
+    <edge source="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Quadrangle" target="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Equilateralable" relationship="INTERFACE_GENERALIZATION">
+      <point x="66.02721048104308" y="-18.0" />
+      <point x="-82.00000000000011" y="18.0" />
+    </edge>
+    <edge source="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Octagon" target="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Polygon" relationship="INTERFACE_GENERALIZATION">
+      <point x="0.0" y="-18.0" />
+      <point x="1766.1622721009112" y="738.1650943396228" />
+      <point x="2195.417845484222" y="738.1650943396228" />
+      <point x="-49.09224300235519" y="20.270705442749318" />
+    </edge>
+    <edge source="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Quadrangle" target="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Versatileable" relationship="INTERFACE_GENERALIZATION">
+      <point x="78.0" y="-15.0" />
+      <point x="1563.1819350222586" y="635.9905660377358" />
+      <point x="0.0" y="18.0" />
+    </edge>
+    <edge source="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.PentagonImpl" target="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Pentagon" relationship="REALIZATION">
+      <point x="27.890097932535355" y="-18.0" />
+      <point x="0.0" y="18.0" />
+    </edge>
+    <edge source="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.CircleImpl" target="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Ellips" relationship="REALIZATION">
+      <point x="63.5" y="-18.0" />
+      <point x="-17.565848591150143" y="18.0" />
+    </edge>
+    <edge source="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Hexagon" target="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Corractable" relationship="INTERFACE_GENERALIZATION">
+      <point x="29.99972789908861" y="-18.0" />
+      <point x="2001.162" y="374.08779977808365" />
+      <point x="2579.473207834603" y="374.08779977808365" />
+      <point x="-30.000272100911843" y="18.0" />
+    </edge>
+    <edge source="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Quadrangle" target="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Corractable" relationship="INTERFACE_GENERALIZATION">
+      <point x="0.0" y="-18.0" />
+      <point x="878.7512172802459" y="106.57097518753608" />
+      <point x="2609.4734799355147" y="106.57097518753608" />
+      <point x="0.0" y="-18.0" />
+    </edge>
+    <edge source="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Hexagon" target="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Polygon" relationship="INTERFACE_GENERALIZATION">
+      <point x="44.99972789908861" y="-18.0" />
+      <point x="2016.162" y="753.1650943396228" />
+      <point x="2207.6622721009117" y="753.1650943396228" />
+      <point x="-36.84781638566574" y="18.0" />
+    </edge>
+    <edge source="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Triangle" target="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Rectangularable" relationship="INTERFACE_GENERALIZATION">
+      <point x="-15.0" y="-18.0" />
+      <point x="1442.9225143099425" y="121.57097518753608" />
+      <point x="248.95820304218694" y="121.57097518753608" />
+      <point x="0.0" y="-18.0" />
+    </edge>
+    <edge source="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Parallelogram" target="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Quadrangle" relationship="INTERFACE_GENERALIZATION">
+      <point x="-86.0" y="0.0" />
+      <point x="878.751" y="862.6031839622641" />
+      <point x="-2.1728024591993744E-4" y="18.0" />
+    </edge>
+    <edge source="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Trapezoid" target="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Quadrangle" relationship="INTERFACE_GENERALIZATION">
+      <point x="60.65567534375913" y="-18.0" />
+      <point x="391.45820304218694" y="650.9905660377358" />
+      <point x="-78.0" y="0.0" />
+    </edge>
+    <edge source="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.OvalImpl" target="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Ellips" relationship="REALIZATION">
+      <point x="-59.5" y="-18.0" />
+      <point x="45.848528563185255" y="18.0" />
+    </edge>
+    <edge source="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Triangle" target="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Corractable" relationship="INTERFACE_GENERALIZATION">
+      <point x="-30.0" y="-18.0" />
+      <point x="1427.9225143099425" y="91.57097518753608" />
+      <point x="2645.0240784121197" y="91.57097518753608" />
+      <point x="2645.0240784121197" y="169.07097518753608" />
+      <point x="15.0" y="-18.0" />
+    </edge>
+    <edge source="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.OctagonImpl" target="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Octagon" relationship="REALIZATION">
+      <point x="0.0" y="-18.0" />
+      <point x="0.0" y="18.0" />
+    </edge>
+    <edge source="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.SquareImpl" target="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Rhombus" relationship="REALIZATION">
+      <point x="-40.15320636485103" y="-18.0" />
+      <point x="0.0" y="18.0" />
+    </edge>
+    <edge source="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Triangle" target="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Isoscelesable" relationship="INTERFACE_GENERALIZATION">
+      <point x="-60.0" y="-18.0" />
+      <point x="1397.9225143099425" y="570.7271149522587" />
+      <point x="644.6022895908405" y="570.7271149522587" />
+      <point x="3.9839741891025824" y="18.0" />
+    </edge>
+    <edge source="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Decagon" target="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Polygon" relationship="INTERFACE_GENERALIZATION">
+      <point x="-59.5" y="-18.0" />
+      <point x="32.65218361433426" y="18.0" />
+    </edge>
+    <edge source="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.HexagonImpl" target="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Hexagon" relationship="REALIZATION">
+      <point x="17.5" y="-18.0" />
+      <point x="0.0" y="18.0" />
+    </edge>
+    <edge source="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.RhombusImpl" target="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Rhombus" relationship="REALIZATION">
+      <point x="34.065957913136344" y="-18.0" />
+      <point x="441.63930680615357" y="865.6650943396227" />
+      <point x="-69.5" y="0.0" />
+    </edge>
+    <edge source="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Pentagon" target="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Polygon" relationship="INTERFACE_GENERALIZATION">
+      <point x="62.5" y="-18.0" />
+      <point x="-8.957718453130383" y="18.0" />
+    </edge>
+    <edge source="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Nagons" target="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Polygon" relationship="INTERFACE_GENERALIZATION">
+      <point x="0.0" y="-18.0" />
+      <point x="2521.1622721009117" y="696.4723993471165" />
+      <point x="2309.0100884865774" y="696.4723993471165" />
+      <point x="64.5" y="-9.433962270577467E-5" />
+    </edge>
+    <edge source="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.DecagonImpl" target="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Decagon" relationship="REALIZATION">
+      <point x="0.0" y="-18.0" />
+      <point x="0.0" y="18.0" />
+    </edge>
+    <edge source="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Triangle" target="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Versatileable" relationship="INTERFACE_GENERALIZATION">
+      <point x="30.759420712316114" y="-18.0" />
+      <point x="-74.5" y="18.0" />
+    </edge>
+    <edge source="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Octagon" target="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Corractable" relationship="INTERFACE_GENERALIZATION">
+      <point x="-15.0" y="-18.0" />
+      <point x="1751.1622721009112" y="121.57097518753608" />
+      <point x="2579.4734799355147" y="121.57097518753608" />
+      <point x="-30.0" y="-18.0" />
+    </edge>
+    <edge source="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Rectangle" target="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Parallelogram" relationship="INTERFACE_GENERALIZATION">
+      <point x="71.0" y="0.0" />
+      <point x="1011.7761257405214" y="1043.6650943396226" />
+      <point x="0.0" y="18.0" />
+    </edge>
+    <edge source="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Heptagon" target="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Polygon" relationship="INTERFACE_GENERALIZATION">
+      <point x="20.499727899088157" y="-18.0" />
+      <point x="2730.162" y="676.2428019586507" />
+      <point x="2309.0100884865774" y="676.2428019586507" />
+      <point x="64.5" y="14.999905660377294" />
+    </edge>
+    <edge source="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.RectangleImpl" target="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Rectangle" relationship="REALIZATION">
+      <point x="-58.38893972222195" y="-18.0" />
+      <point x="0.0" y="18.0" />
+    </edge>
+    <edge source="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Decagon" target="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Corractable" relationship="INTERFACE_GENERALIZATION">
+      <point x="40.77515989038329" y="-18.278804894573682" />
+      <point x="2377.437431991295" y="493.5704228956755" />
+      <point x="2645.6622721009117" y="493.5704228956755" />
+      <point x="36.18879216539699" y="18.0" />
+    </edge>
+    <edge source="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.NagonsImpl" target="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Nagons" relationship="REALIZATION">
+      <point x="0.0" y="-18.0" />
+      <point x="0.0" y="18.0" />
+    </edge>
+    <edge source="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Triangle" target="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.part1.Shape1" relationship="INTERFACE_GENERALIZATION">
+      <point x="0.0" y="-18.0" />
+      <point x="1457.9225143099425" y="348.9036353144837" />
+      <point x="56.5" y="0.0" />
+    </edge>
+    <edge source="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.ParallelogramImpl" target="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Parallelogram" relationship="REALIZATION">
+      <point x="15.0" y="-18.0" />
+      <point x="998.361748586186" y="1080.9791429071086" />
+      <point x="1026.7761257405214" y="1080.9791429071086" />
+      <point x="15.0" y="18.0" />
+    </edge>
+    <edge source="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.TriangleImpl" target="ru.sectorsj.interview_preparation.hw1.third_task.shapes.option2.second.Triangle" relationship="REALIZATION">
+      <point x="-73.5" y="-18.0" />
+      <point x="20.8091388409116" y="18.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="0.6812453669384729" showDependencies="false" x="1460.0" y="705.0" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

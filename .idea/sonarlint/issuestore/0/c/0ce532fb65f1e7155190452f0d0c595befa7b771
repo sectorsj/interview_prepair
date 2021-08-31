@@ -1,15 +1,0 @@
-
-
-java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(ÙàÃ
-J
-java:S6212"/Declare this local variable with "var" instead.(´È†§øÿÿÿÿ
-J
-java:S6212"/Declare this local variable with "var" instead.(ôÖÏÿÿÿÿÿ
-A
-java:S3011",This accessibility update should be removed.(ºÓüE
-B
-java:S3011",This accessibility bypass should be removed.(¢åË™
->
-java:S1068"(Remove this unused "name" private field.(Ë¥¼
-B
-java:S1068"'Remove this unused "age" private field.(Æ†´¦şÿÿÿÿ
