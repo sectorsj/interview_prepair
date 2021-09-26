@@ -1,7 +1,6 @@
 package ru.sectorsj.interview_preparation.hw3.task1.ping_pong;
 
 class PingPong implements Runnable{
-	
 	private Object LOCK_OBJECT;
 	private String name;
 	

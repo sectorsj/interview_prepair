@@ -2,6 +2,7 @@ package ru.sectorsj.interview_preparation.hw3.task2.lock;
 
 
 public class ThreadSafetyCounterRunner {
+
 	public static void main(String[] args) throws InterruptedException {
 		Counter counter1 = new Counter(2000);
 		Counter counter2 = new Counter(2000);

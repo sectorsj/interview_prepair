@@ -1,6 +1,7 @@
 package ru.sectorsj.interview_preparation.hw3.task2.lock;
 
 public class ThreadSafetyCounter extends Thread {
+
 	private Counter first;
 	private Counter second;
 	
