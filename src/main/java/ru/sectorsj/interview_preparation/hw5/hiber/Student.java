@@ -2,7 +2,6 @@ package ru.sectorsj.interview_preparation.hw5.hiber;
 
 
 import javax.persistence.*;
-
 @Entity
 @Table(name = "students")
 public class Student {

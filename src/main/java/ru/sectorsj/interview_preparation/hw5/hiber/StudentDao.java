@@ -6,7 +6,6 @@ import org.hibernate.SessionFactory;
 import java.util.List;
 
 public class StudentDao {
-
     private SessionFactory factory;
 
     public StudentDao(SessionFactory factory) {

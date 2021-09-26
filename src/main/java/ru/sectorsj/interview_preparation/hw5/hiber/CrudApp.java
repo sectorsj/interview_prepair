@@ -10,7 +10,6 @@ import java.nio.file.Paths;
 import java.util.stream.Collectors;
 
 public class CrudApp {
-
     private static StudentDao studentDao;
     private static SessionFactory factory;
 
