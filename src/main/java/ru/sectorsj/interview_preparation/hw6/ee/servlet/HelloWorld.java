@@ -10,6 +10,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
 public class HelloWorld extends HttpServlet {
+
     private static Logger logger = LoggerFactory.getLogger(HelloWorld.class);
 
     @Override
