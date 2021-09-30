@@ -1,6 +1,0 @@
-@startuml
-!include Triangles.puml
-!include Quadrangles.puml
-!include Polygons.puml
-!include Elliptics.puml
-@enduml
